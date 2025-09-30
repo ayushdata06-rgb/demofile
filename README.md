@@ -1,3 +1,3 @@
 # demofile
 This is my first repository 
-author - ayush
+author - ayush gupta
